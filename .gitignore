@@ -1,5 +1,6 @@
-.log
+*.log
 *.dvi
 Maheswaran_CV_windows.tex
+*.ps
 *.backup
 *~
